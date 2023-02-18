@@ -1,0 +1,14 @@
+{
+  "name": "hypebot",
+  "version": "0.0.1",
+  "description": "hypebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hb",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
